@@ -1,0 +1,9 @@
+**/*.log
+**/*.suo
+**/.vs
+**/*.csproj.user
+/.tscache
+/dts/**/*.*
+!/dts/typings-import.json
+/typings
+/obj/Debug
